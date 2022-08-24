@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-
-
-
-
-#!/bin/bash
-echo "ALX"
 #!/bin/bash
 #!/bin/bash
-echo "ALX" 
-#!/bin/bash
-echo "ALX"
-=======
->>>>>>> eccb8d24d93c93919a32a74c682af6add5e025ac
-#!/bin/bash
-echo "ALX"
-#!/bin/bash
-echo "ALX"
+echo "ALX School"
